@@ -8,6 +8,8 @@ Movix is the  movies database application made with top notch frontend technolog
 ### `ReactJ`  `NodeJS` 
 
 ## Snaps:
-![alt text]()
+![alt text](1.PNG)
+![alt text](2.PNG)
+![alt text](3.PNG)
 
 
